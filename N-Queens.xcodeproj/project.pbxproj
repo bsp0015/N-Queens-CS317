@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7077C5B127A9BBA70072429E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7077C5B027A9BBA70072429E /* main.cpp */; };
+		7077C5B127A9BBA70072429E /* NQueens.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7077C5B027A9BBA70072429E /* NQueens.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		7077C5AD27A9BBA70072429E /* N-Queens */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "N-Queens"; sourceTree = BUILT_PRODUCTS_DIR; };
-		7077C5B027A9BBA70072429E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		7077C5B027A9BBA70072429E /* NQueens.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = NQueens.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		7077C5AF27A9BBA70072429E /* N-Queens */ = {
 			isa = PBXGroup;
 			children = (
-				7077C5B027A9BBA70072429E /* main.cpp */,
+				7077C5B027A9BBA70072429E /* NQueens.cpp */,
 			);
 			path = "N-Queens";
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7077C5B127A9BBA70072429E /* main.cpp in Sources */,
+				7077C5B127A9BBA70072429E /* NQueens.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
